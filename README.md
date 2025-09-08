@@ -1,11 +1,11 @@
 # 🍹 FreshJuice DEV – Developer Edition of the FreshJuice HubSpot Theme
 
-[![GitHub Release](https://img.shields.io/github/v/release/freshjuice-dev/freshjuice-hubspot-theme)](https://github.com/freshjuice-dev/freshjuice-hubspot-theme/releases)
-[![GitHub last commit](https://img.shields.io/github/last-commit/freshjuice-dev/freshjuice-hubspot-theme)](https://github.com/freshjuice-dev/freshjuice-hubspot-theme/commits/main)
-[![GitHub License](https://img.shields.io/github/license/freshjuice-dev/freshjuice-hubspot-theme)](https://github.com/freshjuice-dev/freshjuice-hubspot-theme/blob/main/LICENSE)
-[![GitHub watchers](https://img.shields.io/github/watchers/freshjuice-dev/freshjuice-hubspot-theme)](https://github.com/freshjuice-dev/freshjuice-hubspot-theme/watchers)
-[![GitHub forks](https://img.shields.io/github/forks/freshjuice-dev/freshjuice-hubspot-theme)](https://github.com/freshjuice-dev/freshjuice-hubspot-theme/network/members)
-[![GitHub Repo stars](https://img.shields.io/github/stars/freshjuice-dev/freshjuice-hubspot-theme)](https://github.com/freshjuice-dev/freshjuice-hubspot-theme/stargazers)
+[![GitHub Release](https://img.shields.io/github/v/release/freshjuice-dev/freshjuice-dev-hubspot-theme)](https://github.com/freshjuice-dev/freshjuice-dev-hubspot-theme/releases)
+[![GitHub last commit](https://img.shields.io/github/last-commit/freshjuice-dev/freshjuice-dev-hubspot-theme)](https://github.com/freshjuice-dev/freshjuice-dev-hubspot-theme/commits/main)
+[![GitHub License](https://img.shields.io/github/license/freshjuice-dev/freshjuice-dev-hubspot-theme)](https://github.com/freshjuice-dev/freshjuice-dev-hubspot-theme/blob/main/LICENSE)
+[![GitHub watchers](https://img.shields.io/github/watchers/freshjuice-dev/freshjuice-dev-hubspot-theme)](https://github.com/freshjuice-dev/freshjuice-dev-hubspot-theme/watchers)
+[![GitHub forks](https://img.shields.io/github/forks/freshjuice-dev/freshjuice-dev-hubspot-theme)](https://github.com/freshjuice-dev/freshjuice-dev-hubspot-theme/network/members)
+[![GitHub Repo stars](https://img.shields.io/github/stars/freshjuice-dev/freshjuice-dev-hubspot-theme)](https://github.com/freshjuice-dev/freshjuice-dev-hubspot-theme/stargazers)
 
 FreshJuice DEV is a modern, clean, and minimalistic HubSpot CMS theme designed specifically for developers.
 Built with **Tailwind CSS** and **Alpine.js**, it offers full flexibility and a clean architecture, making it easy to customize and extend for real-world production use.
@@ -75,7 +75,7 @@ theme/                    # Compiled theme files for HubSpot
 
 ## Contributing
 
-If you find an issue, [open an issue](https://github.com/freshjuice-dev/freshjuice-hubspot-theme/issues).
+If you find an issue, [open an issue](https://github.com/freshjuice-dev/freshjuice-dev-hubspot-theme/issues).
 Contributions are welcome — fork the repo and submit a pull request.
 
 ---
@@ -83,7 +83,7 @@ Contributions are welcome — fork the repo and submit a pull request.
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning.
-See the [releases page](https://github.com/freshjuice-dev/freshjuice-hubspot-theme/releases) for available versions.
+See the [releases page](https://github.com/freshjuice-dev/freshjuice-dev-hubspot-theme/releases) for available versions.
 
 ---
 

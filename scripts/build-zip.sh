@@ -9,4 +9,4 @@ cp -r ./theme/* ./_temp/FreshJuiceDEV
 
 cd ./_temp
 
-zip -rm ../_dist/freshjuice-hubspot-theme-v$VERSION-dev.zip ./FreshJuiceDEV -x "*/.DS_Store"
+zip -rm ../_dist/freshjuice-dev-hubspot-theme-v$VERSION-dev.zip ./FreshJuiceDEV -x "*/.DS_Store"

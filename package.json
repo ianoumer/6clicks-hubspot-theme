@@ -1,5 +1,5 @@
 {
-  "name": "freshjuice-hubspot-theme",
+  "name": "freshjuice-dev-hubspot-theme",
   "version": "3.0.0",
   "description": "FreshJuice DEV is the open-source Community Edition of the FreshJuice theme — built for developers using HubSpot CMS, Tailwind CSS, Alpine.js, and more. Clean, fast, and flexible. The PRO version with additional modules and templates is available separately.",
   "main": "index.js",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/freshjuice-dev/freshjuice-hubspot-theme.git"
+    "url": "git+ssh://git@github.com/freshjuice-dev/freshjuice-dev-hubspot-theme.git"
   },
   "keywords": [
     "hubspot",
@@ -52,9 +52,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/freshjuice-dev/freshjuice-hubspot-theme/issues"
+    "url": "https://github.com/freshjuice-dev/freshjuice-dev-hubspot-theme/issues"
   },
-  "homepage": "https://github.com/freshjuice-dev/freshjuice-hubspot-theme#readme",
+  "homepage": "https://github.com/freshjuice-dev/freshjuice-dev-hubspot-theme#readme",
   "devDependencies": {
     "@alpinejs/collapse": "^3.14.9",
     "@alpinejs/focus": "^3.14.9",
