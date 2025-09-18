@@ -35,7 +35,7 @@
         },
         "inherited_value": {
           "property_value_paths": {
-            "color": "brand_settings.colors[1]"
+            "color": "brand_settings.secondaryColor"
           }
         },
         "default": {
@@ -43,16 +43,111 @@
         }
       },
       {
-        "label": "Tertiary",
-        "name": "tertiary",
+        "label": "Accent 1",
+        "name": "accent_1",
         "type": "color",
         "visibility": {
           "hidden_subfields": {
             "opacity": true
           }
         },
+        "inherited_value": {
+          "property_value_paths": {
+            "color": "brand_settings.accentColor1"
+          }
+        },
         "default": {
           "color": "#FFF2E5"
+        }
+      },
+      {
+        "label": "Accent 2",
+        "name": "accent_2",
+        "type": "color",
+        "visibility": {
+          "hidden_subfields": {
+            "opacity": true
+          }
+        },
+        "inherited_value": {
+          "property_value_paths": {
+            "color": "brand_settings.accentColor2"
+          }
+        },
+        "default": {
+          "color": "#2563EB"
+        }
+      },
+      {
+         "label": "Accent 3",
+        "name": "accent_3",
+        "type": "color",
+        "visibility": {
+          "hidden_subfields": {
+            "opacity": true
+          }
+        },
+        "inherited_value": {
+          "property_value_paths": {
+            "color": "brand_settings.accentColor3"
+          }
+        },
+        "default": {
+          "color": "#FFFFFF"
+        }
+      },
+      {
+       "label": "Neutral 1",
+        "name": "neutral_1",
+        "type": "color",
+        "visibility": {
+          "hidden_subfields": {
+            "opacity": true
+          }
+        },
+        "inherited_value": {
+          "property_value_paths": {
+            "color": "brand_settings.colors[1]"
+          }
+        },
+        "default": {
+          "color": "#111827"
+        }
+      },
+      {
+        "label": "Neutral 2",
+        "name": "neutral_2",
+        "type": "color",
+        "visibility": {
+          "hidden_subfields": {
+            "opacity": true
+          }
+        },
+        "inherited_value": {
+          "property_value_paths": {
+            "color": "brand_settings.colors[2]"
+          }
+        },
+        "default": {
+          "color": "#6B7280"
+        }
+      },
+      {
+        "label": "Neutral 3",
+        "name": "neutral_3",
+        "type": "color",
+        "visibility": {
+          "hidden_subfields": {
+            "opacity": true
+          }
+        },
+        "inherited_value": {
+          "property_value_paths": {
+            "color": "brand_settings.colors[3]"
+          }
+        },
+        "default": {
+          "color": "#D1D6DC"
         }
       }
     ]
@@ -80,7 +175,7 @@
         },
         "default": {
           "fallback": "sans-serif",
-          "font": "Lato",
+          "font": "DM Sans",
           "font_set": "GOOGLE"
         }
       },
@@ -102,7 +197,7 @@
         },
         "default": {
           "fallback": "serif",
-          "font": "Merriweather",
+          "font": "Atkinsons Hyperlegible",
           "font_set": "GOOGLE"
         }
       }
@@ -131,7 +226,7 @@
         "max": 2500,
         "min": 900,
         "suffix": "px",
-        "default": 1240
+        "default": 1200
       }
     ]
   },
@@ -1962,8 +2057,11 @@
             },
             "inherited_value": {
               "property_value_paths": {
-                "color": "theme.global_fonts.primary.color"
+                "color": "brand_settings.colors[1]"
               }
+            },
+            "default": {
+              "color": "#8CABD7"
             }
           }
         ]
@@ -1979,7 +2077,7 @@
             "type": "color",
             "inherited_value": {
               "property_value_paths": {
-                "color": "theme.global_colors.tertiary.color"
+                "color": "theme.global_colors.primary.color"
               }
             },
             "default": {
